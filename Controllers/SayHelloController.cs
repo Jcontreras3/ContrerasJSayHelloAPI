@@ -1,6 +1,8 @@
 //Jovann Contreras
 //Date 10/25/2022
-//Peer reviewed by: 
+//Peer reviewed by: Jessie Lamzon
+//Code is running and no errors were present.  Code runs and does required for assignment.  Good job!
+
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
